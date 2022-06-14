@@ -11,3 +11,12 @@
   color: #000000;
   text-decoration: none;
 }
+
+.intro-text {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  color: #21243D;
+}
